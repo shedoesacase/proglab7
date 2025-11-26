@@ -1,3 +1,4 @@
+```bash
   --help                   show help
   --dirs arg               select dirs
   --exclude arg            exclude dirs
@@ -6,3 +7,4 @@
   --mask arg               masks
   --block-size arg (=4096) block size
   --hash arg (=crc32)      hash algorithm
+  ```
